@@ -1,0 +1,5 @@
+# مسموح لكل محركات البحث وأدوات الذكاء الاصطناعي
+User-agent: *
+Allow: /
+
+Sitemap: https://aj5749843-cmd.github.io/sitemap.xml
